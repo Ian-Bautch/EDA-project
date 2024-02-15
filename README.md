@@ -1,5 +1,5 @@
 # Bautch and Price 2024 EDA-project
-Effects on return rates of chinook salmon in Alaska's Cook Inlet
+## Effects on return rates of chinook salmon in Alaska's Cook Inlet
 by Ian Bautch and Aiden Price 
 An exploratory data analysis for BIOL 275 Biostatistics at Minnesota State University Moorhead. Instructor: Chris Merkord
 ### Abstract 
